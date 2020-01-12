@@ -1,5 +1,5 @@
 /*
- * File: ftk_pipe.h    
+ * File: ftk_pipe.h
  * Author:  Li XianJing <xianjimli@hotmail.com>
  * Brief:   pipe
  *
@@ -31,7 +31,7 @@
  */
 
 #ifndef FTK_PIPE_H
-#define FTK_PIEP_H
+#define FTK_PIPE_H
 
 #include "ftk_typedef.h"
 
